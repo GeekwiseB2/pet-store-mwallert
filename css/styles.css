@@ -57,11 +57,14 @@
 
 .footer .container .info {
   padding: 15px;
-  color: #fff;
   line-height: 10px;
   font-size: 10px;
   border-left: 1px solid grey;
   text-decoration: none;
+}
+
+.footer .container .info a {
+  color: #fff;
 }
 
 .footer .container .info a:hover {
